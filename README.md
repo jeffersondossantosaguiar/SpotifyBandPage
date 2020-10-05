@@ -3,9 +3,20 @@
 
 > A native application built with NativeScript-Vue
 
-### Built With
+## About this Project
+This project origial is from Alexander Ziskind on this Youtube Video https://www.youtube.com/watch?v=k9cxGlAlo4s&t=713s
 
-Markup : * NativeScript Vue
+The idea of the App is learn how works a NativeScript Vue App
+
+This project is part of my personal portfolio, so, I'll be happy if you could provide me any feedback about the project, code, structure or anything that you can report that could make me a better developer!
+
+## What changes I made to the original project?
+* I made it with Vue JS
+* I replaced TypeScript with JavaScript 
+
+## Built With
+
+* NativeScript Vue
 
 ## Usage
 
