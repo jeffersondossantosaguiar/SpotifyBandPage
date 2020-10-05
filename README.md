@@ -1,5 +1,5 @@
 # Spotify Band Page
-![] (SpotifyBandPage.gif)
+![] (https://github.com/jeffersondossantosaguiar/SpotifyBandPage/blob/main/SpotifyBandPage.gif)
 
 > A native application built with NativeScript-Vue
 
